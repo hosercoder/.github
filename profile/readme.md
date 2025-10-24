@@ -44,6 +44,11 @@ Modular NuGet packages and client systems organized for maximum reusability and 
   - **Data:** Data access layer and repository patterns
 - **Links:** [GitHub](https://github.com/hosercoder/Common)
 
+#### Fitness
+- **Status:** In Development
+- **Technologies:** .NET 8.0, xunit
+- **Description:** Package to run fitness test to ensure compliency
+- **Links:** [GitHub]([https://github.com/hosercoder/FitnessTests)
 ### Executable Systems (containers)
 
 #### Strategy Tester
