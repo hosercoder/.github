@@ -27,13 +27,13 @@ Modular NuGet packages and client systems organized for maximum reusability and 
 - **Status:** Feature Complete (Pending Refinement)
 - **Technologies:** .NET 8.0, xunit
 - **Description:** Framework for creating and configuring trading strategies
-- **Links:** [GitHub](https://github.com/hosercoder/StrategyBuilder) | [Architecture Diagram](./Diagrams/StrategybuilderDiagram.png)
+- **Links:** [GitHub](https://github.com/hosercoder/StrategyBuilder)
 
 #### TechnicalCalculators
 - **Status:** Feature Complete (Pending Refinement)
 - **Technologies:** .NET 8.0, TALib.NETCore, xunit
 - **Description:** Technical indicator calculations and market analysis tools
-- **Links:** [GitHub](https://github.com/hosercoder/TechnicalCalculators) | [Architecture Diagram](./Diagrams/technicalCalculatorDiagram.png)
+- **Links:** [GitHub](https://github.com/hosercoder/TechnicalCalculators)
 
 #### Common
 - **Status:** In Development
@@ -48,7 +48,7 @@ Modular NuGet packages and client systems organized for maximum reusability and 
 - **Status:** In Development
 - **Technologies:** .NET 8.0, xunit
 - **Description:** Package to run fitness test to ensure compliency
-- **Links:** [GitHub]([https://github.com/hosercoder/FitnessTests)
+- **Links:** [[GitHub]([https://github.com/hosercoder/FitnessTests)](https://github.com/hosercoder/FitnessTests)
 ### Executable Systems (containers)
 
 #### Strategy Tester
