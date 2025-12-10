@@ -15,7 +15,6 @@ This project makes extensive use of GitHub Copilot for code generation and assis
 ## Quick Links
 
 - [GitHub Profile](https://github.com/hosercoder)
-- [LinkedIn Profile](https://www.linkedin.com/in/mathewromstadt/)
 
 ## System Modules
 
